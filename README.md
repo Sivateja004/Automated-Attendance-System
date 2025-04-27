@@ -142,6 +142,3 @@ See `requirements.txt` for the full list of dependencies, including:
 - Enhance security with proper user authentication and session management.
 - Optimize face recognition for larger datasets using more efficient encoding storage.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
